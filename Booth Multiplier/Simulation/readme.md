@@ -5,4 +5,5 @@
 
 # 2. Simulation Terminal Results:
 
-![image](https://github.com/MahmouodMagdi/Fixed-Point-Multiplications/assets/72949261/25a23e57-e7a6-49b8-8a84-cb556a1444de)
+![image](https://github.com/MahmouodMagdi/Fixed-Point-Multiplications/assets/72949261/789899e2-7dd8-4b80-ad8f-c9af8990faa6)
+
