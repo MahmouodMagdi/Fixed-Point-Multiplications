@@ -14,7 +14,7 @@ In the sequential add-shift method:
 2. If the multiplier bit is a 1, then the multiplicand is entered in the appropriately shifted position as a partial product to be added to other partial products to form the product.
 3. If the multiplier bit is 0, then 0s are entered as a partial product
 
-Although the array multiplier method is applicable to any size operands, an example will be presented that uses two 4-bit operands as shown in the Figure. 
+Although the array multiplier method is applicable to any size operands, an example will be presented that uses two 4-bit operands as shown in the following figure: 
 
 ![image](https://github.com/MahmouodMagdi/Fixed-Point-Multiplications/assets/72949261/e957f9b3-7955-4516-ac5e-f76948eb07a8)
 
