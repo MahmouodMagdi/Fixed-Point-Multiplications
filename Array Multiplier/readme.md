@@ -10,7 +10,7 @@ A hardware array multiplier that permits a very high speed multiply operation fo
 * The sequential add-shift technique requires **less hardware**, but is relatively **slow** when compared to the array multiplier method. 
 
 In the sequential add-shift method:
-1. multiplication of the multiplicand by a 1 bit in the multiplier simply copies the multiplicand.
+1. multiplication of the multiplicand by a 1 bit in the multiplier simply copies the multiplicand.
 2. If the multiplier bit is a 1, then the multiplicand is entered in the appropriately shifted position as a partial product to be added to other partial products to form the product.
 3. If the multiplier bit is 0, then 0s are entered as a partial product
 
